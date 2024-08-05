@@ -1,4 +1,4 @@
-// creating reduce method. But i called it choose
+
 let arr = [3, 5, 32, 5, 2, 1, 45, 6, 76];
 
 
